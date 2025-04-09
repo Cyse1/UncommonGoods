@@ -1,0 +1,252 @@
+<mjml>
+  <mj-head>
+    <mj-style> .linkOne{ text-decoration: none; color: #333; } </mj-style>
+    <mj-title>All about UncommonGoods</mj-title>
+  </mj-head>
+  <mj-body background-color="#caf0f8">
+    <mj-raw>
+      <!-- Header Section -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2" padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-image
+        src="https://www.stevenme.com/email-images/UncommonGoods/HeaderVer4.png"
+        alt="" / padding="0">
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End Header Section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Section Horizontal bar -->
+    </mj-raw>
+
+    <mj-section background-color="#f2f2f2" padding-top="0">
+      <mj-column>
+        <mj-divider
+          align="center"
+          border-width="1px"
+          border-style="solid"
+          width="90%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- start our Story Section -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="32px"
+          letter-spacing="1px"
+          padding-bottom="30px"
+        >
+          Our Story
+        </mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.4">
+          Founded by Dave Tedesky in 1959, UncommonGoods is an online
+          marketplace offering creatively designed, high quality merchandise
+          that makes an impact. We've made our home at the Sunset Park
+          waterfront of Brooklyn, NY, giving us access to many local artists and
+          the community beyond.
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          <a class="linkOne" href="#">Read More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://www.stevenme.com/email-images/UncommonGoods/DaveTedesky.png"
+          alt="Founder Dave Tedesky"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End our Story Section -->
+    </mj-raw>
+
+    <mj-raw>
+      <!-- Start of Infographic Section -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/UncommonGoods/infographic.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- End of Infographic Section -->
+    </mj-raw>
+
+    <mj-raw>
+      <!--Start of Artists Section -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://www.stevenme.com/email-images/UncommonGoods/BakeryArtist.png"
+          alt="Founder Dave Tedesky"
+        />
+        <mj-image
+          src="https://www.stevenme.com/email-images/UncommonGoods/painter.png"
+          alt="Founder Dave Tedesky"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="32px"
+          letter-spacing="1px"
+          padding-bottom="10px"
+        >
+          Our Artists
+        </mj-text>
+        <mj-text align="center" font-size="16px" line-height="1.4">
+          We promote the work of more than 600 independent artists.
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          font-style="italic"
+          padding-bottom="15px"
+        >
+          "Teaming up has helped us become job creators. We've hired four
+          employees, invested in new equipment, and have quickly outgrown our
+          tiny spot and are on the hunt for our next location in Vermont."
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          font-style="italic"
+          padding-bottom="12px"
+        >
+          -Nancy Warner, UncommonGoods Artist
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          <a class="linkOne" href="#">Discover more artists</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--End of Artists Section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start Pottery Img -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://www.stevenme.com/email-images/UncommonGoods/pottery.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End Pottery Img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start NonProfits Img -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2" padding="0 0 30px 0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/UncommonGoods/OverlayVer2.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End NonProfits Img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start Section Horizontal bar -->
+    </mj-raw>
+
+    <mj-section background-color="#f2f2f2" padding-top="0">
+      <mj-column>
+        <mj-divider
+          align="center"
+          border-width="1px"
+          border-style="solid"
+          width="90%"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--End  Section Horizontal bar -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of B Corps Section -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="30px"
+          letter-spacing="1px"
+          padding-bottom="10px"
+        >
+          B Corps
+        </mj-text>
+        <mj-text align="center" font-size="14px" line-height="1.4" color="#333">
+          We're proud to be a founding member of B Corps. Businesses that
+          receive this designation are certified by the nonprofit B Lab to meet
+          rigorous standards of social and environmental performance,
+          accountability, and transparency. Today, there are more than 1,700
+          Certified B Corps from 50 countries and over 130 industries working
+          toward one goal: to redefine success in business
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://www.stevenme.com/email-images/UncommonGoods/goodbusiness.png"
+          alt="Good Business Poster"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End of B Corps Section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- End Pottery Img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start Lower Overlap Img -->
+    </mj-raw>
+    <mj-section background-color="#f2f2f2" padding="0 0 30px 0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/UncommonGoods/lowerOverlap.png"
+          alt="Our Staff"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End lower overlap Img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start Sub/Unsub Section -->
+    </mj-raw>
+    <mj-section background-color="#eae2b7">
+      <mj-column>
+        <mj-text align="center">
+          <a class="linkOne" href="#">Unsubscribe</a> |
+          <a class="linkOne" href="">Subscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End Sub/Unsub Section -->
+    </mj-raw>
+  </mj-body>
+</mjml>
