@@ -1,6 +1,9 @@
 <mjml>
   <mj-head>
     <mj-style> .linkOne{ text-decoration: none; color: #333; } </mj-style>
+    <mj-style inline="inline">
+      .padding p, .padding a{ color: #999999; line-height: .4; padding: 0px; }
+    </mj-style>
     <mj-title>All about UncommonGoods</mj-title>
   </mj-head>
   <mj-body background-color="#caf0f8">
@@ -239,9 +242,23 @@
     </mj-raw>
     <mj-section background-color="#eae2b7">
       <mj-column>
-        <mj-text align="center">
-          <a class="linkOne" href="#">Unsubscribe</a> |
-          <a class="linkOne" href="">Subscribe</a>
+        <mj-text
+          css-class="padding"
+          align="center"
+          padding="0"
+          font-size="13px"
+        >
+          <p>UncommonGoods</p>
+          <p>32123 Centenial Road</p>
+          <p>Long Beach, CA, 91731</p>
+        </mj-text>
+        <mj-text
+          css-class="padding"
+          align="center"
+          padding="0"
+          font-size="13px"
+        >
+          <p>Click Here to <a class="linkOne" href="#">Unsubscribe</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
